@@ -1,5 +1,3 @@
-# settlementSystemDemo
-
 # 联通代理售卡结算系统Demo
 
 项目目前已在[Github](https://github.com/qjh1924/settlementSystemDemo)开源，欢迎标星下载和收藏。使用方法，在文件目录下
