@@ -37,3 +37,5 @@ npm run build
 ## 具体实现
 
 本项目目前完成了用户管理、订单记录功能，在线演示地址：[Demo](http://qiujianhui.top/vue)
+
+更多介绍欢迎访问我的[个人博客](http://qiujianhui.top)
